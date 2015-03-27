@@ -1,0 +1,31 @@
+
+Information:Gradle tasks [:app:assembleDebug]
+:app:preBuild UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:app:compileDebugNdk UP-TO-DATE
+:app:checkDebugManifest
+:app:preReleaseBuild UP-TO-DATE
+:app:prepareComAndroidSupportAppcompatV72103Library UP-TO-DATE
+:app:prepareComAndroidSupportSupportV42103Library UP-TO-DATE
+:app:prepareDebugDependencies
+:app:compileDebugAidl UP-TO-DATE
+:app:compileDebugRenderscript UP-TO-DATE
+:app:generateDebugBuildConfig UP-TO-DATE
+:app:generateDebugAssets UP-TO-DATE
+:app:mergeDebugAssets UP-TO-DATE
+:app:generateDebugResValues UP-TO-DATE
+:app:generateDebugResources UP-TO-DATE
+:app:mergeDebugResources
+:app:processDebugManifest
+:app:processDebugResources
+:app:generateDebugSources
+:app:compileDebugJava
+C:\Users\SERVER\AndroidStudioProjects\MyApplication3\app\src\main\java\com\multipliersolutions\healthcampaign\myapplication\MainActivity10Activity.java
+Error:(24, 5) error: annotation type not applicable to this kind of declaration
+Error:Execution failed for task ':app:compileDebugJava'.
+> Compilation failed; see the compiler error output for details.
+Information:BUILD FAILED
+Information:Total time: 34.343 secs
+Information:2 errors
+Information:0 warnings
+Information:See complete output in console
